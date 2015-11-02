@@ -28,5 +28,6 @@
 		
 	}else{
 		include 'views/v_mainSettings.php';
+		include 'views/v_mainSettings.php';
 	}
 ?>
